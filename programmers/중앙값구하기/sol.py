@@ -2,7 +2,7 @@ def solution(array):
     array.sort()
     if len(array) % 2 == 0:
         pre = array[(len(array)//2)-1]
-        post = array[(leㅜ(array)//2)]
+        post = array[(len(array)//2)]
         return((pre + post)/2)
     else:
         return(array[(len(array)//2)])
