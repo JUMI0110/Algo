@@ -23,6 +23,6 @@ if result == 0:
     print('draw')
 
 elif result > 0:
-    print(f'Result : Man{result} Win')
+    print(f'Result : Man{result} Win!')
 else:
-    print(f'Result : Man{result + 3} Win')
+    print(f'Result : Man{result + 3} Win!')
