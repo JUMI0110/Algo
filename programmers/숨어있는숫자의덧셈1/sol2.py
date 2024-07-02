@@ -6,7 +6,7 @@ def solution(my_string):
 
     return answer
 
-
+# 아스키 코드 ord()
     
     
 
